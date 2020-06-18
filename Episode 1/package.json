@@ -1,0 +1,16 @@
+{
+  "name": "tutorialbot",
+  "version": "1.0.0",
+  "description": "A Discord.js v12 tutorial bot ",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "ComicallyBad",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
