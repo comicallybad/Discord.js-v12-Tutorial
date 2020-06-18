@@ -6,7 +6,7 @@ To get started:
 
 For running code from specific episodes follow these instructions:
 1. Clone the github repository: navigate to destinated folder location, then use `git clone https://github.com/comicallybad/Discord.js-v12-Tutorial`
-2. Open the cloned folder in VSCode, type `cd <project directory name>`
+2. Open the cloned folder in VSCode, type `cd <episode directory name>`
 3. Use `npm install --save`
 4. Add your saved `.env` file to the folder
 5. Use `nodemon` or `node index.js`
