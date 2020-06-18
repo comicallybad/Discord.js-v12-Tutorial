@@ -1,4 +1,6 @@
 # ComicallyBad Discord.js v12 Tutorial Series Repository
+![Series Logo](./SeriesImage.jpg)
+
 To get started:
 1. Install VSCode from: https://code.visualstudio.com/download/
 2. Install node from: https://nodejs.org/en/download
