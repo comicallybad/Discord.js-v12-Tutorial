@@ -3,7 +3,7 @@
 
 To get started:
 1. Install VSCode from: https://code.visualstudio.com/download/
-2. Install node from: https://nodejs.org/en/download
+2. Install Node from: https://nodejs.org/en/download
 3. Install GIT from https://git-scm.com/downloads
 
 For running code from specific episodes follow these instructions:
