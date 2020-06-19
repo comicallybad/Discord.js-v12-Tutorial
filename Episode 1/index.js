@@ -3,7 +3,7 @@ const { config } = require("dotenv");
 const client = new Client({ partials: ["MESSAGE", "CHANNEL", "REACTION"] });
 
 config({ path: __dirname + "/.env" });
-globalThis.prefix = "=";
+global.prefix = "=";
 
 client.on("ready", () => {
     console.log(`${client.user.username} is online! `);
